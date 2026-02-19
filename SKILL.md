@@ -4,7 +4,7 @@ description: Systematically evaluate a business's competitive advantages to dete
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3872
+  version: 1.0.3873
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - economic-moat-analysis
